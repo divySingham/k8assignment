@@ -15,7 +15,7 @@ Email :  divyanshu.singh@nagarro.com
 
 	enter password: yourpassword
 
-  CREATE DATABASE mydatabase;
+  	CREATE DATABASE mydatabase;
 
 	USE mydatabase;
 
