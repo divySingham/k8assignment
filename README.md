@@ -1,6 +1,6 @@
 # k8assignment
 
-<!--
+
 
 1-> Run below command
 
@@ -44,4 +44,4 @@
 
   kubectl delete po mysql-set-0
 
- -->
+
