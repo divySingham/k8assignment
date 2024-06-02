@@ -5,6 +5,8 @@ Email :  divyanshu.singh@nagarro.com
 
 video link: https://drive.google.com/file/d/1q-lhszjBhp3ZJ0Om7tjROj5kMFCDATa4/view?usp=drive_link
 
+docker hub image link: https://hub.docker.com/repository/docker/divyanshu1994singh/node-app/general
+
 1-> Run below command
 
 	kubectl apply -f a-db-pv.yaml && kubectl apply -f a-db-pvc.yaml && kubectl apply -f a-mysql-secrets.yaml && kubectl apply -f a-mysql-headless-service.yaml && kubectl apply -f a-stateful-set-db.yaml
